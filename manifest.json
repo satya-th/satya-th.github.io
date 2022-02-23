@@ -1,18 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "http://localhost:3000/manifest.json",
+  "@id": "https://satya-th.github.io/manifest.json",
   "label": "Papillons",
   "description": "Four patterns inspired by butterflies.",
   "attribution": "Special Collections Research Center at NCSU Libraries",
-  "logo": "http://localhost:3000/logo.jpg",
+  "logo": "https://satya-th.github.io/logo.jpg",
   "sequences": [
     {
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:3000/segPap_022/canvas/1",
+          "@id": "https://satya-th.github.io/segPap_022/canvas/1",
           "label": "22",
           "width": 6099,
           "height": 8599,
@@ -20,7 +20,7 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "http://localhost:3000/segPap_022/canvas/1",
+              "on": "https://satya-th.github.io/segPap_022/canvas/1",
               "resource": {
                 "@type": "dctypes:Image",
                 "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
