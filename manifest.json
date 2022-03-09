@@ -5,7 +5,6 @@
     "label": "",
     "attribution": "http://nrs.harvard.edu/urn-3:hul.ois:hlviewerterms",
     "logo": "https://iiif-dev.lib.harvard.edu/static/manifests/harvard_logo.jpg",
-    "metadata": [],
     "sequences": [
         {
             "@id": "https://mps-dev.lib.harvard.edu/URN-3:FMUS.MCZ:2005-682215/sequence/normal.json",
